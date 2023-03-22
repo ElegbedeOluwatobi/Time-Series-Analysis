@@ -1,4 +1,4 @@
-# Time-Series-Analysis
+# Time-Series-Project
 
 This solution was developed to solve univariate time series problem using AUTO ARIMA .
 
